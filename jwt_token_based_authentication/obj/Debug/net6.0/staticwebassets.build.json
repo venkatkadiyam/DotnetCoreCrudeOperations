@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Pu3eBOWqIa4EvbQnaw+16NEOQsFKTYgPrshTL/Ed154=",
+  "Source": "jwt_token_based_authentication",
+  "BasePath": "_content/jwt_token_based_authentication",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
